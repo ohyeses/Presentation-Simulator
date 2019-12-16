@@ -1,9 +1,6 @@
-# Presentation-Simulator
-발표시뮬레이터
+<figure class="video_container">
+<iframe src="https://docs.google.com/presentation/d/1q7U2mX6E6qFQd_AV4270grMVEvt9PjRnvhJ6S-TV050/edit#slide=id.p1" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+</figure>
 
 
 
-Presentation-Simulator [발표시뮬레이터]
-============ 
-
-[출처] Github Readme(.md) 작성하기|작성자 ohyeses
