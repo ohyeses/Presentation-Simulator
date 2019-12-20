@@ -1,9 +1,0 @@
-# Auto detect text files and perform LF normalization
-* text=auto
-Presentation_Simulator_YerinOH filter=lfs diff=lfs merge=lfs -text
-*.unitypackage filter=lfs diff=lfs merge=lfs -text
-*.mp4 filter=lfs diff=lfs merge=lfs -text
-*.exe filter=lfs diff=lfs merge=lfs -text
-/u/0.Github/Presentation[[:space:]]Simulator/Presentation-Simulator/* filter=lfs diff=lfs merge=lfs -text
-U:/0.Github/Presentation[[:space:]]Simulator/Presentation-Simulator/PresentationVR_0530_mp4.mp4 filter=lfs diff=lfs merge=lfs -text
-U:/0.Github/Presentation[[:space:]]Simulator/Presentation-Simulator/Unity_Presentation_Simulator.zip filter=lfs diff=lfs merge=lfs -text
